@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="stop_nnormal_service">stop \nnormal service</string>
+    <string name="start_n_normal_service">start \n normal service</string>
+</resources>
